@@ -8,7 +8,7 @@ Files in this repository:
 Creates a database named favmovies.db (if it doesn already exist).
 Creates a table named movies and defined its rows and columns
 
-### 2. [insert data to table.py](insert data to table.py)
+### 2. [insert_data_to_table.py](insert_data_to_table.py)
 Add data to the table as individual rows
 Or add multiple data all together as a list
 
