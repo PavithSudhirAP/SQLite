@@ -3,18 +3,18 @@ SQLite3 inbuilt package in python was used to create the database `favmovies.db`
 
 Files in this repository:
 --- 
-### 1. [create_db_and_table.py]()
+### 1. [create_db_and_table.py](create_db_and_table.py)
 Creates a database named favmovies.db (if it doesn already exist).
 Creates a table named movies and defined its rows and columns
 
-### 2. [insert data to table.py]()
+### 2. [insert data to table.py](insert data to table.py)
 Add data to the table as individual rows
 Or add multiple data all together as a list
 
-### 3. [query_all_row.py]()
+### 3. [query_all_row.py](query_all_row.py)
 Query all data from movies table and prints it line by line
 
-### 4. [query_by_actor_names]()
+### 4. [query_by_actor_names](query_by_actor_names.py)
 Query the database with the lead actors name
 (can be modified to query data based on any parameter)
 
