@@ -15,7 +15,7 @@ Or add multiple data all together as a list
 ### 3. [query_all_row.py](query_all_row.py)
 Query all data from movies table and prints it line by line
 
-### 4. [query_by_actor_names](query_by_actor_names.py)
+### 4. [query_by_actor_names.py](query_by_actor_names.py)
 Query the database with the lead actor's name
 (can be modified to query data based on any parameter)
 
